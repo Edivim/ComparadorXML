@@ -32,7 +32,7 @@ pip install pandas openpyxl
 
 Download do Instalador
 
-Você pode baixar o programa completo (sem precisar instalar Python) usando o instalador abaixo:
+Você pode baixar o programa completo (sem precisar instalar Python) usando o instalador com o nome abaixo:
 
 ComparadorXML_Setup.exe
 
